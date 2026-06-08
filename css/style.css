@@ -17,8 +17,8 @@
   --text-dim:    #4a5270;
 
   /* Typography */
-  --font-display: 'Syne', sans-serif;
-  --font-body:    'Lora', serif;
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-body:    'Inter', serif;
   --font-mono:    'DM Mono', monospace;
 
   /* Spacing */
@@ -191,8 +191,8 @@ strong { color: var(--text); font-weight: 600; }
 }
 
 .hero-photo img {
-  width: 220px;
-  height: 220px;
+  width: 440px;
+  height: 440px;
   object-fit: cover;
   border-radius: 12px;
   border: 2px solid var(--border);
